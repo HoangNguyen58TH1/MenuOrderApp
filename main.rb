@@ -1,4 +1,5 @@
 $LOAD_PATH << '.'
+require './controller/calculator'
 require './models/employee'
 require './models/menu'
 require './models/menu_item'
@@ -50,3 +51,8 @@ puts '======================================'
 order_controller.change_order(4, 2, Time.local(2020, 11, 3, 9, 29).strftime('%H:%M'))
 order_controller.print_orders
 order_controller.price_total
+
+# puts 'abc'
+# cal = Calculator.new(2, 3)
+# puts cal.sum
+# puts cal.square

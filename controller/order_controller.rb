@@ -20,7 +20,7 @@ class OrderController
       end
       price_total += item_order.price
     end
-    puts "Price total today: #{price_total} VND"
+    "Price total today: #{price_total} VND"
   end
 
   def add_order(order)

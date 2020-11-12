@@ -1,0 +1,2 @@
+- Mục đích của “description” là bao bọc một tập hợp các thử nghiệm đối với một chức năng 
+- trong khi “ngữ cảnh” là bao bọc một tập hợp các thử nghiệm đối với một chức năng trong cùng một trạng thái
