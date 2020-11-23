@@ -13,6 +13,6 @@ class MenuItem
   ]
 
   def print_menu_item
-    puts "ID: #{id} - Name: #{name} - Price: #{price}"
+    "ID: #{id} - Name: #{name} - Price: #{price}"
   end
 end

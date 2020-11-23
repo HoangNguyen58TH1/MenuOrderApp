@@ -12,7 +12,6 @@ class Employee
   ]
 
   def print_employee
-    # puts "ID: #{id} - Name: #{name}"
-    return "ID: #{id} - Name: #{name}"
+    "ID: #{id} - Name: #{name}"
   end
 end

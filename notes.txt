@@ -1,2 +1,16 @@
 - Mục đích của “description” là bao bọc một tập hợp các thử nghiệm đối với một chức năng 
 - trong khi “ngữ cảnh” là bao bọc một tập hợp các thử nghiệm đối với một chức năng trong cùng một trạng thái
+
+- Mỗi ngày sẽ có 1 thực đơn được import.
+- Employee sẽ vào và thấy thực đơn mỗi ngày.
+- Sẽ có thời gian chốt món, sau thời gian chốt món. employee sẽ không thay đổi món nữa.
+- Sau khi chốt món sẽ xuất đơn. tổng tiền
+
+### 23/10/2020
+- Coi lại MenuOrder.
+
+- Custom lại MenuOrder
++ Add model Items.
++ Add relationship between models.
+
+- Chia MVC, 
